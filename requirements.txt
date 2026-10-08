@@ -5,3 +5,6 @@ seaborn
 scikit-learn
 jupyter
 imbalanced-learn
+mlflow
+fastapi 
+uvicorn
