@@ -8,3 +8,5 @@ imbalanced-learn
 mlflow
 fastapi 
 uvicorn
+requests
+streamlit
