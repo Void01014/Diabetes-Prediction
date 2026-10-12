@@ -1,12 +1,24 @@
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-jupyter
-imbalanced-learn
-mlflow
-fastapi 
-uvicorn
-requests
-streamlit
+# core data / ML
+pandas==3.0.6
+numpy==2.4.6
+scikit-learn==1.9.1
+scipy==1.17.1
+joblib==1.6.0
+imbalanced-learn==0.14.2
+
+# visualisation (train.py + notebook)
+matplotlib==3.11.2
+seaborn==0.13.2
+
+# mlflow
+mlflow==3.17.0
+
+# api
+fastapi==0.142.2
+uvicorn==0.54.0
+pydantic==2.13.5
+python-multipart==0.0.32
+
+# streamlit app
+streamlit==1.65.0
+requests==2.34.2

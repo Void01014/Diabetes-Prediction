@@ -1,0 +1,24 @@
+{
+  "n_rows": 761,
+  "n_cols": 8,
+  "columns": [
+    "Pregnancies",
+    "Glucose",
+    "BloodPressure",
+    "SkinThickness",
+    "Insulin",
+    "BMI",
+    "DiabetesPedigreeFunction",
+    "Age"
+  ],
+  "dtypes": {
+    "Pregnancies": "int64",
+    "Glucose": "float64",
+    "BloodPressure": "float64",
+    "SkinThickness": "float64",
+    "Insulin": "float64",
+    "BMI": "float64",
+    "DiabetesPedigreeFunction": "float64",
+    "Age": "int64"
+  }
+}
